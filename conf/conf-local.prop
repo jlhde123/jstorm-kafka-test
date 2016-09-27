@@ -1,0 +1,7 @@
+spout.parallel=2
+bolt.parallel=1
+
+topology.workers=8
+
+topology.name=reader
+storm.cluster.mode=local
